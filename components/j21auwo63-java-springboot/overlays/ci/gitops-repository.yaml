@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: j21auwo63-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/j21auwo63-java-springboot-gitops
